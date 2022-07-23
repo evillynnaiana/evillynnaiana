@@ -1,11 +1,12 @@
-# Hello world👋
-## Desenvolvedora Evillyn Naiane
+# Hello world :earth_asia:
+## Desenvolvedora Evillyn Naiane 
 Em um mundo repleto de pessoas, com qualidades e caracteristicas distintas, destaco a fala de Clarice:
 > "Cada pessoa é um mundo." - Clarice Lispector
 
 E com isso, te  convido a conhecer o meu *mundo*.
 
 ![1](https://user-images.githubusercontent.com/93842120/180584517-e1b327e4-ab47-4917-a01c-4334550934fe.png)
+
 
 <!--
 **evillynnaiana/evillynnaiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
