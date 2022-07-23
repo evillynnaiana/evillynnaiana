@@ -4,7 +4,7 @@ Em um mundo repleto de pessoas, com qualidades e caracteristicas distintas, dest
 > "Cada pessoa é um mundo." - Clarice Lispector
 
 E com isso, te  convido a conhecer o meu *mundo*.
-![1](https://user-images.githubusercontent.com/93842120/180585442-b256b4b3-ba98-40c6-8551-55466f0f63fd.png)
+
 
 
 <!--
