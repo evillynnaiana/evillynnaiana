@@ -1,6 +1,6 @@
 # Hello world :earth_asia:
 ## Desenvolvedora Evillyn Naiane 
-Em um mundo repleto de pessoas, com qualidades e caracteristicas distintas, destaco a fala de Clarice:
+Em um mundo repleto de pessoas, com qualidades e características distintas, destaco a fala de Clarice:
 > "Cada pessoa é um mundo." - Clarice Lispector
 
 E com isso, te  convido a conhecer o meu *mundo*.
