@@ -1,4 +1,4 @@
-# Olá, seja bem vindo(a)👋
+# Hello world👋
 ## Desenvolvedora Evillyn Naiane
 Em um mundo repleto de pessoas, com qualidades e caracteristicas distintas, destaco a fala de Clarice:
 > "Cada pessoa é um mundo." - Clarice Lispector
